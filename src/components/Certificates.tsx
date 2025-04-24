@@ -22,12 +22,9 @@ import c22 from '../assets/images/certificates/Coursera RHX8JTGFSUJQ.jpg';
 import c23 from '../assets/images/certificates/Coursera SR57Q7GQ6T99.jpg';
 import c24 from '../assets/images/certificates/Coursera TTQV2N5CNFCG.jpg';
 import c25 from '../assets/images/certificates/Coursera U6W4464JV5UN.jpg';
-import c26 from '../assets/images/certificates/Coursera V3UJJ75S2F9G.jpg';
 import c27 from '../assets/images/certificates/Coursera XRFZNWU5HLDT.jpg';
 import c28 from '../assets/images/certificates/Coursera Z9GB7X28S5KW.jpg';
-import c39 from '../assets/images/certificates/bkm-n-a-b4351506-555c-49de-bc05-dd9458edd6f6-certificate_pages-to-jpg-0001.jpg';
 import c30 from '../assets/images/certificates/download.png';
-import c31 from '../assets/images/certificates/UC-dc9ba737-0cca-4d78-8e73-0d3b9a863c50.jpg';
 
 import '../assets/styles/Certificates.scss';
 
